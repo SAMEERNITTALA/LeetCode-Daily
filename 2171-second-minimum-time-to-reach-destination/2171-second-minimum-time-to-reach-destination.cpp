@@ -1,46 +1,47 @@
 class Solution {
 public:
     int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
-        // Create the graph using an unordered_map of lists
-        unordered_map<int, list<int>> g;
-        for (const auto& e : edges) {
-            int u = e[0], v = e[1];
-            g[u].push_back(v);
-            g[v].push_back(u);
+        vector<vector<int>> adj(n + 1);
+
+        for (auto& edge : edges) {
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
         }
 
-        // Priority queue for Dijkstra's algorithm
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> q;
-        q.push({0, 1});  // (time, node)
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
+        vector<int> dist1(n + 1, INT_MAX), dist2(n + 1, INT_MAX), freq(n + 1, 0);
 
-        vector<int> uniqueVisit(n + 1, 0);  // To track the number of unique visits
-        vector<int> dis(n + 1, -1);  // To store the minimum time to reach each node
-        
-        while (!q.empty()) {
-            auto [t, node] = q.top();
-            q.pop();  // Get the node with the smallest time
-            
-            if (dis[node] == t || uniqueVisit[node] >= 2) {
-                continue;  // Skip if already visited or relaxed twice
+        minHeap.push({0, 1});
+
+        while (!minHeap.empty()) {
+            auto [timeTaken, node] = minHeap.top();
+            minHeap.pop();
+
+            freq[node]++;
+
+            if (freq[node] == 2 && node == n) {
+                return timeTaken;
             }
-            
-            uniqueVisit[node]++;
-            dis[node] = t;
-            
-            if (node == n && uniqueVisit[node] == 2) {
-                return dis[node];
-            }
-            
-            // Calculate the leaving time (waiting for the green light)
-            if ((t / change) % 2 != 0) {
-                t = (t / change + 1) * change;
-            }
-            
-            for (int nei : g[node]) {
-                q.push({t + time, nei});
+
+            for (auto neighbor : adj[node]) {
+                int newTimeTaken = timeTaken;
+
+                if ((newTimeTaken / change) % 2) {
+                    newTimeTaken = change * (newTimeTaken / change + 1) + time;
+                } else {
+                    newTimeTaken = newTimeTaken + time;
+                }
+
+                if (dist1[neighbor] > newTimeTaken) {
+                    dist2[neighbor] = dist1[neighbor];
+                    dist1[neighbor] = newTimeTaken;
+                    minHeap.push({newTimeTaken, neighbor});
+                } else if (dist2[neighbor] > newTimeTaken && dist1[neighbor] != newTimeTaken) {
+                    dist2[neighbor] = newTimeTaken;
+                    minHeap.push({newTimeTaken, neighbor});
+                }
             }
         }
-        
-        return -1;
+        return 0;
     }
 };
