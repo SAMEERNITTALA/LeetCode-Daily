@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -86,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
