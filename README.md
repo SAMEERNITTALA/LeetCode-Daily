@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1511-count-number-of-teams) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1511-count-number-of-teams) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
