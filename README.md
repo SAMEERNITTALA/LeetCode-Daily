@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1333-sort-the-jumbled-numbers) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
