@@ -1,23 +1,15 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        stack<char> st1, st2;
-
-        for(int i = 0; i < t.size(); i++) {
-            st2.push(t[i]);
+        int count=0;
+        if(s.length()>t.length()){
+            return false;
         }
-
-        for(int i = 0; i < s.size(); i++) {
-            st1.push(s[i]);
-        }
-        
-        while(!st1.empty() && !st2.empty()) {
-            if(st1.top() == st2.top()) {
-                st1.pop();  
+        for(int i=0;i<t.length();i++){
+            if(s[count]==t[i]){
+                count++;
             }
-            st2.pop();  
         }
-
-        return st1.empty();
+        return count==s.length();
     }
 };
