@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
