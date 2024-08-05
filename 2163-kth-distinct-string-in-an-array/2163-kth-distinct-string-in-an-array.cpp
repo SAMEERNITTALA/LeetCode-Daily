@@ -1,8 +1,3 @@
-#include <string>
-#include <vector>
-#include <map>
-using namespace std;
-
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
