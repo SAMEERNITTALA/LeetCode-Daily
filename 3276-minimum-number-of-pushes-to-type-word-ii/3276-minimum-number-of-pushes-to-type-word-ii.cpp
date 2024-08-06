@@ -6,7 +6,6 @@ public:
        {
         ans[c - 'a']++;
        }
-
        sort(ans.rbegin(), ans.rend());
        int totalMoves = 0;
        for(int i = 0; i < 26; i++)
