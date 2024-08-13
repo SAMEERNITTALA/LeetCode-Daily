@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
