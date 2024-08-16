@@ -1,13 +1,21 @@
 class Solution {
 public:
-    int strStr(const string& haystack, const string& needle) 
-    {
-        if (needle.empty()) return 0;
-        if (needle.size() > haystack.size()) return -1;
-        for (int i = 0; i <= haystack.size() - needle.size(); ++i) 
+    int strStr(string haystack, string needle) {
+        if(needle.size() > haystack.size()) return -1;
+        vector<string> sub;
+        for(int i = 0; i <= haystack.size() - needle.size(); i++)
         {
-            if (haystack.substr(i, needle.size()) == needle) return i;
+            sub.push_back(haystack.substr(i, needle.size()));
         }
-        return -1;
+        int ans = 0;
+        for(int i = 0; i < sub.size(); i++)
+        {
+            if(sub[i] == needle){
+                ans = i;
+                break;
+            } 
+            else ans = -1;
+        }
+        return ans;
     }
 };
