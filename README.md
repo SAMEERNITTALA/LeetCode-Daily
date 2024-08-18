@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
