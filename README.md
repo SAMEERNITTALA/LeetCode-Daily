@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
 ## String Matching
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
