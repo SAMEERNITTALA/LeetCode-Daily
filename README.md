@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Recursion
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
