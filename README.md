@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
+| [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
