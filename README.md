@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0755-reach-a-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0650-2-keys-keyboard) |
+| [0755-reach-a-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0755-reach-a-number) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
