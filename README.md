@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Greedy
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3355-minimum-levels-to-gain-more-points) |
 ## Game Theory
 |  |
 | ------- |
