@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Recursion
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Memoization
 |  |
 | ------- |
