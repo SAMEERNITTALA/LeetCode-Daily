@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
+| [1241-decompress-run-length-encoded-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1241-decompress-run-length-encoded-list) |
 | [1325-path-with-maximum-probability](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1511-count-number-of-teams) |
