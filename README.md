@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2181-smallest-index-with-equal-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
