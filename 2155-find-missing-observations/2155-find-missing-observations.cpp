@@ -12,10 +12,11 @@ public:
             int x = value / n;
             int y = value % n;
             for(int i = 0; i < n; i++) v.emplace_back(x);
-            for(int i = 0; i < y; i++)
+            while(y > 0) 
             {
-                v[i] += 1;
-            }
+                v[y] += 1; 
+                y--;
+            }    
         }
         return v;
     }
