@@ -7,10 +7,10 @@ public:
         for(int r : rolls) sum += r;
         int value = mean * (m + n) - sum;
         if(value > 6 * n || mean > 6 || value < n) return {};
-        else if(value == 6 * n)
-        {
-            for(int i = 0; i < n; i++) v.emplace_back(6);
-        }
+        // else if(value == 6 * n)
+        // {
+        //     for(int i = 0; i < n; i++) v.emplace_back(6);
+        // }
         else
         {
             int x = value / n;
