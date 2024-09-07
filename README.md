@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
+| [0461-hamming-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1054-complement-of-base-10-integer) |
 ## String Matching
