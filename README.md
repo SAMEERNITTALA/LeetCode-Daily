@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0755-reach-a-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0755-reach-a-number) |
