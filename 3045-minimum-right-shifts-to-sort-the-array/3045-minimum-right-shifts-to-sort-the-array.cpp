@@ -15,10 +15,10 @@ public:
     {
         bool check=isRotatedSorted(nums);
         if(check==false) return -1;
-        int n = nums.size(), ans=0;
-        for(int i=n-1; i>0; i--) 
+        int n = nums.size(), ans = 0;
+        for(int i = n-1; i > 0; i--) 
         {
-            if(nums[i]<nums[0]) ans++;
+            if(nums[i] < nums[0]) ans++;
             else break;
         }
         return ans;
