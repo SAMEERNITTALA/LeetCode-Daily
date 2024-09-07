@@ -1,30 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
-        int m = mat.size();
-        int n = mat[0].size();
+        if(mat.size() * mat[0].size() != r * c) return mat;
 
-        if(r * c != m * n) return mat;
-
-        vector<int> vec;
-        for(int i = 0; i < m; i++) 
+        vector<vector<int>> v(r,vector<int>(c));
+        int x = 0, y = 0;
+        for(int i = 0; i < mat.size(); i++)
         {
-            for(int j = 0; j < n; j++) 
+            for(int j = 0; j < mat[0].size(); j++)
             {
-                vec.emplace_back(mat[i][j]);
+                v[x][y]=mat[i][j];
+                y++;
+                if(y == c)
+                {
+                    y = 0;
+                    x++;
+                }
             }
         }
-
-        vector<vector<int>> v(r, vector<int>(c));
-
-        for(int i = 0; i < r; i++) 
-        {
-            for(int j = 0; j < c; j++) 
-            {
-                v[i][j] = vec[i * c + j];
-            }
-        }
-
         return v;
     }
 };
