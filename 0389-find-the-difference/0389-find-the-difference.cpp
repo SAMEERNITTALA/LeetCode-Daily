@@ -9,7 +9,7 @@ public:
 
         for(const auto &pair : m) 
         {
-            if(pair.second > 0) return pair.first;
+            if(pair.second == 1) return pair.first;
         }
         
         return '\0';
