@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2727-number-of-senior-citizens) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Bit Manipulation
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0725-split-linked-list-in-parts](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
