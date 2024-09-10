@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
