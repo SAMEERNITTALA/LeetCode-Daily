@@ -1,40 +1,17 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        vector<vector<string>> v;
-        if(strs.size() < 2) v.emplace_back(strs);
-        
-        else
+        unordered_map<string, vector<string>> v;
+        for(const string& s : strs)
         {
-            vector<map<char, int>> vm;
-            for(int i = 0; i < strs.size(); i++)
-            {
-                map<char, int> m;
-                for(char c : strs[i]) m[c]++;
-                vm.emplace_back(m);
-            }
-
-            for(int i = 0; i < vm.size(); i++)
-            {
-                vector<string> vs;
-                vs.emplace_back(strs[i]);
-
-                int j = i + 1;
-                while(j < vm.size())
-                {
-                    if(vm[i] == vm[j])
-                    {
-                        vs.emplace_back(strs[j]);
-                        vm.erase(vm.begin() + j);
-                        strs.erase(strs.begin() + j);
-                    }
-                    
-                    else j++;
-                }
-                v.emplace_back(vs);
-            }        
+            string x = s;
+            sort(x.begin(), x.end());
+            v[x].emplace_back(s);
         }
 
-        return v;
+        vector<vector<string>> ans;
+        for(auto& u : v) ans.emplace_back(u.second);
+
+        return ans;
     }
 };
