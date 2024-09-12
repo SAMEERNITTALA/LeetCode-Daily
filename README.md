@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0242-valid-anagram) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
