@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2502-sort-the-people) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1054-complement-of-base-10-integer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
