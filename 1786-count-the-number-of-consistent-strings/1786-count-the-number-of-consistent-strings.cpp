@@ -7,13 +7,11 @@ public:
         for(int i = 0; i < words.size(); i++)
         {
             int val = 0;
-            
-            set<char> s2;
-            for(char c : words[i]) s2.insert(c);
-
-            for(char d : s2) if(s1.find(d) != s1.end()) val++;
-
-            if(val == s2.size()) count++;
+            for(int j = 0; j < words[i].size(); j++)
+            {
+                if(s1.find(words[i][j]) != s1.end()) val++;
+            }
+            if(val == words[i].size()) count++;
         }
         return count;
     }
