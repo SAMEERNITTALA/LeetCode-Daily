@@ -1,13 +1,25 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-        vector<int> v;
-        for(int i = 0; i < queries.size(); i++)
-        {
-            int x = 0;
-            for(int j = queries[i][0]; j <= queries[i][1]; j++) x = x ^ arr[j];
-            v.emplace_back(x);
+        int n = arr.size();
+        vector<int> prefix(n);
+        vector<int> ans(queries.size());
+
+        prefix[0] = arr[0];
+        for (int i = 1; i < n; i++) {
+            prefix[i] = prefix[i - 1] ^ arr[i];
         }
-        return v;
+
+        for (int i = 0; i < queries.size(); i++) {
+            int left = queries[i][0];
+            int right = queries[i][1];
+            if (left == 0) {
+                ans[i] = prefix[right];
+            } else {
+                ans[i] = prefix[right] ^ prefix[left - 1];
+            }
+        }
+
+        return ans;
     }
 };
