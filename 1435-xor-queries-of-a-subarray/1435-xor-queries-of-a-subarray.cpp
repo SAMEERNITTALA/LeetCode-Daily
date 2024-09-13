@@ -4,10 +4,8 @@ public:
         vector<int> v;
         for(int i = 0; i < queries.size(); i++)
         {
-            int l = queries[i][0];
-            int r = queries[i][1];
             int x = 0;
-            for(int j = l; j <= r; j++)
+            for(int j = queries[i][0]; j <= queries[i][1]; j++)
             {
                 x = x ^ arr[j];
             }
