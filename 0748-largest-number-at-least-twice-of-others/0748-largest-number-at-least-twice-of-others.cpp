@@ -2,7 +2,6 @@ class Solution {
 public:
     int dominantIndex(vector<int>& nums) {
         auto it = max_element(nums.begin(), nums.end());
-        int ans = distance(nums.begin(), it);
         
         for(int i = 0; i < nums.size(); i++)
         {
@@ -11,6 +10,6 @@ public:
             if(*it < 2 * nums[i]) return -1;
         }
 
-        return ans;
+        return distance(nums.begin(), it);
     }
 };
