@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sorting
 |  |
@@ -526,4 +529,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
