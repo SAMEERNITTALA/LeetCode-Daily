@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0596-classes-more-than-5-students) |
