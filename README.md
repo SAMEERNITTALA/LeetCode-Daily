@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0906-walking-robot-simulation) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0725-split-linked-list-in-parts](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0859-design-circular-deque) |
 ## Brainteaser
 |  |
 | ------- |
