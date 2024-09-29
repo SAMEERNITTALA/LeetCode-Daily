@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Stack
 |  |
