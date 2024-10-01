@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0566-reshape-the-matrix) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
