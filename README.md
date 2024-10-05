@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0906-walking-robot-simulation) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0812-rotate-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
