@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Bit Manipulation
 |  |
