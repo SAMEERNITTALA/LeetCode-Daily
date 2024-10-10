@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1241-decompress-run-length-encoded-list) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
+| [1002-maximum-width-ramp](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1002-maximum-width-ramp) |
 ## Binary Indexed Tree
 |  |
 | ------- |
