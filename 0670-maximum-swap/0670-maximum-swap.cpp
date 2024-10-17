@@ -7,9 +7,9 @@ public:
             int largeIndex = i;
             for(int j = i+1; j < s.size(); j++)
             {
-                if((int)s[j] >= (int)s[largeIndex]) largeIndex = j;
+                if(s[j] >= s[largeIndex]) largeIndex = j;
             }
-            if((int)s[largeIndex] != (int)s[i])
+            if(s[largeIndex] != s[i])
             {
                 swap(s[i], s[largeIndex]);
                 break;
