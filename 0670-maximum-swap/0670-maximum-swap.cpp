@@ -17,9 +17,10 @@ public:
             }
             if(large != (int)s[i])
             {
-                int temp = (int)s[i];
+                /*int temp = (int)s[i];
                 s[i] = s[largeIndex];
-                s[largeIndex] = temp;
+                s[largeIndex] = temp;*/
+                swap(s[i], s[largeIndex]);
                 break;
             }
         }
