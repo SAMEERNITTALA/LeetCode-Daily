@@ -2,7 +2,6 @@ class Solution {
 public:
     int maximumSwap(int num) {
         string s = to_string(num);
-        //if(s.size() == 1) return num;
         for(int i = 0; i < s.size(); i++)
         {
             int largeIndex = i;
