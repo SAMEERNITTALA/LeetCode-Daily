@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0461-hamming-distance) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
