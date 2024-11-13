@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2181-smallest-index-with-equal-value](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2181-smallest-index-with-equal-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2716-prime-subtraction-operation) |
