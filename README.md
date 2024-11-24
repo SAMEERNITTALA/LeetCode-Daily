@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0414-third-maximum-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0476-number-complement) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0564-find-the-closest-palindrome) |
