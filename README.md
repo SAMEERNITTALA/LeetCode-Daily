@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1241-decompress-run-length-encoded-list) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
