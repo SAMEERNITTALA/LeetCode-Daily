@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
