@@ -8,7 +8,6 @@ public:
         for(const auto& pair : m)
         {
             if(pair.second % 2 == 1) count++;
-            cout <<  pair.first << " " << pair.second << "\n";
         }
         return count <= k;
     }
