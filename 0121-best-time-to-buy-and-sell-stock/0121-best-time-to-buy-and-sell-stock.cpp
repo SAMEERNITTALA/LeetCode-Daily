@@ -1,21 +1,13 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int p = prices.size();
-        if (p == 0) return 0;
-        
-        int mn = numeric_limits<int>::max();
-        int ma = 0;
-
-        for(int i = 0; i < p; i++) {
-            if(prices[i] < mn) {
-                mn = prices[i];
-            }
-            if(prices[i] - mn > ma) {
-                ma = prices[i] - mn;
-            }
+        int mini = prices[0], profit = 0;
+        for(int i = 1; i < prices.size(); i++)
+        {
+            int cost = prices[i] - mini;
+            profit = max(profit, cost);
+            mini = min(mini, prices[i]);
         }
-
-        return ma;
+        return profit;
     }
 };
