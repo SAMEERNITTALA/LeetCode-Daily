@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2472-build-a-matrix-with-conditions) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
