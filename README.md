@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
