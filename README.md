@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0854-making-a-large-island) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0242-valid-anagram) |
