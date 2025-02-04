@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2089-maximum-matrix-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2155-find-missing-observations) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2465-shifting-letters-ii) |
