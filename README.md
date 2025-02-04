@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
