@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2026-merge-triplets-to-form-target-triplet) |
