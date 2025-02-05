@@ -1,7 +1,21 @@
 class Solution {
 public:
+    vector<int> generateRow(int rowNum) {
+        vector<int> v;
+        long long val = 1;
+        v.emplace_back(val);
+        for(int i = 1; i < rowNum; i++)
+        {
+            val *= (rowNum - i);
+            val /= i;
+            v.emplace_back(val);
+        }
+        return v;
+    }
+
+
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> ans;
+        /*vector<vector<int>> ans;
         if (numRows >= 1) ans.push_back({1});
         if (numRows >= 2) ans.push_back({1, 1});
 
@@ -18,6 +32,13 @@ public:
             ans.emplace_back(v);
         }
 
+        return ans;*/
+
+        vector<vector<int>> ans;
+        for(int i = 1; i <= numRows; i++)
+        {
+            ans.emplace_back(generateRow(i));
+        }
         return ans;
     }
 };
