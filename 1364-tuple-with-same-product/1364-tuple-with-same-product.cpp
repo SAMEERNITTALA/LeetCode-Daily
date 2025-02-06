@@ -7,8 +7,9 @@ public:
         {
             for(int j = i+1; j < nums.size(); j++)
             {
-                count += 8 * m[nums[i] * nums[j]];
-                m[nums[i] * nums[j]]++;
+                int product = nums[i] * nums[j];
+                count += 8 * m[product];
+                m[product]++;
             }
         }
         return count;
