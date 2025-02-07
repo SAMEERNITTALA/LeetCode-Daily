@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Bit Manipulation
 |  |
