@@ -1,19 +1,20 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        stack<char> st;
-        for(int i = 0; i < s.size(); i++)
-        {
-            if(!isdigit(s[i])) st.push(s[i]);
-            else st.pop();
+        deque<char> q;
+        
+        for (char c : s) {
+            if (!isdigit(c)) 
+                q.push_back(c);
+            else if (!q.empty()) // Prevents pop_back() on an empty deque
+                q.pop_back();
         }
+
         string ans = "";
-        while(!st.empty())
-        {
-            ans += st.top();
-            st.pop();
-        } 
-        reverse(ans.begin(), ans.end());
+        while (!q.empty()) {
+            ans += q.front(); // Maintain correct order
+            q.pop_front();
+        }
         return ans;
     }
 };
