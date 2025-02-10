@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3447-clear-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Bit Manipulation
 |  |
