@@ -6,7 +6,7 @@ public:
 
         for (char c : s) 
         {
-            result.push_back(c);
+            result += c;
 
             if (result.size() >= n && result.substr(result.size() - n) == part) 
             {
