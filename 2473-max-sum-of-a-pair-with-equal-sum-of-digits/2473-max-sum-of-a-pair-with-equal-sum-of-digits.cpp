@@ -12,7 +12,7 @@ public:
     }
     
     int maximumSum(vector<int>& nums) {
-        int ans = INT_MIN;
+        int ans = -1;
         unordered_map<int, vector<int>> m;
         for(int num : nums) m[genSum(num)].emplace_back(num);
         for(auto pair : m)
@@ -23,7 +23,6 @@ public:
                 ans = max(ans, pair.second[0] + pair.second[1]);
             }
         }
-        if(ans == INT_MIN) return -1;
         return ans;
     }
 };
