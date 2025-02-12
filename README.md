@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1797-goal-parser-interpretation) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
