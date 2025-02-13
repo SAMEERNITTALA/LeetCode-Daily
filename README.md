@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
