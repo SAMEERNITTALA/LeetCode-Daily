@@ -13,7 +13,7 @@ private:
 
         while(l <= r)
         {
-            int mid = l + (r-l) / 2;
+            int mid = (r+l) / 2;
 
             if(nums[mid] == target)
             {
@@ -21,7 +21,7 @@ private:
 
                 if(findFirst) r = mid - 1;
 
-                else l = mid + 1; 
+                else l = mid + 1;
             }
 
             else if(nums[mid] < target) l = mid + 1;
