@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3291-find-if-array-can-be-sorted) |
