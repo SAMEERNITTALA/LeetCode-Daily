@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0493-reverse-pairs) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
