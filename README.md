@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2755-extra-characters-in-a-string) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2645-pass-the-pillow) |
@@ -1066,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0258-add-digits) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1211,5 +1214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
