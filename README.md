@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1002-maximum-width-ramp) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
