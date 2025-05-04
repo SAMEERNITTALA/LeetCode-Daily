@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1256-rank-transform-of-an-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1160-letter-tile-possibilities](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1502-construct-k-palindrome-strings) |
