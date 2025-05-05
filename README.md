@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
