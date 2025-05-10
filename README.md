@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2716-prime-subtraction-operation) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
