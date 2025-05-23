@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3647-zero-array-transformation-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3647-zero-array-transformation-iii) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3394-minimum-array-end) |
@@ -1042,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Design
 |  |
 | ------- |
