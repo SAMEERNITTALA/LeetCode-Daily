@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2677-cousins-in-binary-tree-ii) |
