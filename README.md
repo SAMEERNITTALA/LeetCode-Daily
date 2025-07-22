@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1876-map-of-highest-peak) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
