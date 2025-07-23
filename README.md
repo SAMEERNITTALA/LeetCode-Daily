@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2032-largest-odd-number-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2089-maximum-matrix-sum) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1797-goal-parser-interpretation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
