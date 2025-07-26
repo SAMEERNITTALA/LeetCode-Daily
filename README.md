@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
 | ------- |
@@ -1158,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Memoization
 |  |
 | ------- |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Game Theory
 |  |
 | ------- |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Doubly-Linked List
 |  |
 | ------- |
