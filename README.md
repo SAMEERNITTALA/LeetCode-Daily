@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
@@ -1396,4 +1398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
