@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0461-hamming-distance) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0264-ugly-number-ii) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
