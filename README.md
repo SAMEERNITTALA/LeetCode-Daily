@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0900-reordered-power-of-2](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1333-sort-the-jumbled-numbers) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1160-letter-tile-possibilities) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1181,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
