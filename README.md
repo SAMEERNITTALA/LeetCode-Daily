@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0476-number-complement) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0564-find-the-closest-palindrome) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
