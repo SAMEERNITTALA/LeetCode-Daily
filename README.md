@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0724-find-pivot-index) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0826-soup-servings) |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0090-subsets-ii) |
+| [0679-24-game](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
