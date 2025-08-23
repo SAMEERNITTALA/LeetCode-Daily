@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3647-zero-array-transformation-iii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Game Theory
 |  |
