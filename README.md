@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Graph
 |  |
 | ------- |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1244,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
 |  |
 | ------- |
