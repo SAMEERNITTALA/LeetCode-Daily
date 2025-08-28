@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3748-sort-matrix-by-diagonals) |
 ## Graph
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3647-zero-array-transformation-iii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
 | ------- |
