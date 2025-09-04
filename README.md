@@ -1114,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
