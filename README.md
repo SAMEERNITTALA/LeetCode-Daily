@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
