@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1500-count-largest-group) |
