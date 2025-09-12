@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3321-type-of-triangle) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3462-vowels-game-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1240-stone-game-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -1435,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3462-vowels-game-in-a-string) |
 ## Ordered Set
 |  |
 | ------- |
