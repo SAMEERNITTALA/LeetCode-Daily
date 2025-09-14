@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1196-filling-bookcase-shelves) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1256-rank-transform-of-an-array) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0979-di-string-match) |
+| [1006-vowel-spellchecker](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1197-parsing-a-boolean-expression) |
