@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -1242,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
