@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2716-prime-subtraction-operation) |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -1247,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1457,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1477,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
 | ------- |
