@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2023-design-movie-rental-system) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2035-count-sub-islands](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2429-design-a-food-rating-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2434-design-a-number-container-system) |
@@ -1246,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2023-design-movie-rental-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/3678-design-task-manager) |
@@ -1476,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
+| [2023-design-movie-rental-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/2434-design-a-number-container-system) |
