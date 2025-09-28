@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0566-reshape-the-matrix) |
+| [0611-valid-triangle-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0670-maximum-swap) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0868-push-dominoes) |
@@ -1065,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAMEERNITTALA/LeetCode-Daily/tree/master/0731-my-calendar-ii) |
